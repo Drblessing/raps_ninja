@@ -14,4 +14,4 @@ Enjoy!
 
 ## Source
 
-Built with Grégory D'Angelo excellent [Build a Full-Stack App with Next.js, Supabase & Prisma](https://themodern.dev/courses/build-a-fullstack-app-with-nextjs-supabase-and-prisma-322389284337222224)
+Inspired by Grégory D'Angelo's excellent [Build a Full-Stack App with Next.js, Supabase & Prisma](https://themodern.dev/courses/build-a-fullstack-app-with-nextjs-supabase-and-prisma-322389284337222224)
