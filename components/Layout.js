@@ -21,7 +21,7 @@ const menuItems = [
   {
     label: 'Share some raps',
     icon: PlusIcon,
-    href: '/list',
+    href: '/create',
   },
   {
     label: 'Logout',
